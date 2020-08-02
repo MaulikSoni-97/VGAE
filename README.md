@@ -1,6 +1,6 @@
 # VGAE
 - This is Pytorch implementation Variational Graph Auto Encoder by Thomas N. Kipf & Max Welling. 
-- Essentially VGAE helps in to find the hidden links within graph network. As an Encoder VGAE uses Graph Convolution Network and at the Deocoder side it uses simple inner product decoder follwing the sigmoid activation function. Detailed information is available in the presentation.
+- VGAE is tool which helps in to find the hidden links within graph network. As an Encoder VGAE uses Graph Convolution Network and at the Deocoder side it uses simple inner product decoder follwing the sigmoid activation function. Detailed information is available in the presentation.
 
 ## References
 - [https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf](https://)
